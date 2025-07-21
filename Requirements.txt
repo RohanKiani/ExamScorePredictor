@@ -1,0 +1,7 @@
+Libraries Used:
+streamlit
+streamlit-extras
+pandas
+numpy
+scikit-learn
+plotly
